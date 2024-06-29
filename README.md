@@ -4,8 +4,9 @@
 The Yellow-Box-Junction Violation Automatic Challan System is designed to automate the detection and reporting of violations of the yellow box junction rule. The rule mandates that vehicles should not stop inside a yellow box and should not enter the yellow box if the exit is not clear.
 This model performs detections on virtual stimulation but it can be scaled to real world detection using powerful machine and high definition cameras that can clearly capture licence-plate numbers . 
 
-
-<img src="https://github.com/deva022/Yellow-Box-Junction-Violation-Automatic-Challan-System/assets/112040328/524c65c0-094d-41a4-824a-6d68075f22cc" style="width:60vw">
+### Demo
+(Might take a few seconds to load.)
+<img src="https://github.com/deva022/Yellow-Box-Junction-Violation-Automatic-Challan-System/assets/112040328/524c65c0-094d-41a4-824a-6d68075f22cc" style="width:60vw" alt="Demo Loading...">
 
 The licence plate detector weights are provided in Licence_plate_detector_weights . Along with that some demo videos are provided to test the model .Clone the repository mentioned in requirements.txt for Sort algorith for tracking the vehicles . You can download YOLOv8x weights locally on your machine also and add its path in code line .
 ```bash
