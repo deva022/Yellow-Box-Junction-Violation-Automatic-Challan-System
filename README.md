@@ -32,7 +32,7 @@ This system leverages advanced computer vision and deep learning techniques to i
 ### Installation
 1. Clone the repository:
 ```bash
-    git clone https://github.com/yourusername/Yellow-Box-Junction-Violation-Automatic-Challan-System.git
+    git clone https://github.com/deva022/Yellow-Box-Junction-Violation-Automatic-Challan-System.git
 ```
 2. Clone the Sort algorithm repository for vehicle tracking:
 ```bash
