@@ -1,7 +1,7 @@
-# Yellow-Box-Junction Violation Automatic Challan System
+# Yellow-Box-Junction-Rule-Violation Automatic Challan System
 
 ## Purpose
-The Yellow-Box-Junction Violation Automatic Challan System is designed to automate the detection and reporting of violations of the yellow box junction rule. The rule mandates that vehicles should not stop inside a yellow box and should not enter the yellow box if the exit is not clear.
+The Yellow-Box-Junction rule Violation Automatic Challan System is designed to automate the detection and reporting of violations of the yellow box junction rule. The rule mandates that vehicles should not stop inside a yellow box and should not enter the yellow box if the exit is not clear.
 This model performs detections on virtual stimulation but it can be scaled to real world detection using powerful machine and high definition cameras that can clearly capture licence-plate numbers . 
 
 ### Demo
